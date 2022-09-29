@@ -1,0 +1,40 @@
+
+.bottom-container{
+    clear:both;
+    margin-right: 20%;
+}
+.bottom-container{
+    clear:both;
+    margin-top: 20%;
+    
+}
+.bim{
+    clear:both;
+    margin-right: 20%;
+}
+.bottom-right{
+float: left;
+clear: both;
+margin-top:5%;
+
+}
+.works{
+    border-radius:10px;
+    height: 200px;
+    width: 200px;
+    
+}
+.bottom-left{
+   
+ float: right;  
+ clear: both; 
+ margin-left: 50px;
+ 
+    }
+
+    
+.footer{
+    text-align: center;
+     clear: both;
+     
+ }

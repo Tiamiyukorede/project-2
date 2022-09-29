@@ -1,0 +1,138 @@
+
+nav{
+    padding: 10px;
+    margin-top: 2%;
+    float: right;
+    text-decoration: none;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+   
+ }
+ nav a:hover{
+ background-color: aquamarine;
+ }
+ 
+ nav a{
+    
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+ }
+ 
+ .container{
+  padding-top: 180px;
+  margin-left: 5%;
+  margin-right: 5%;
+    
+ }
+ .left-container{
+ 
+ }
+ 
+ .right-container{
+ 
+ 
+ }
+ 
+ button{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    margin-bottom: 60px;
+    border: 0PX;
+  }
+  .section{
+    margin-top: 40px;
+    background-color:rgb(135, 151, 222);
+    opacity: 0.9;
+    height: 40%;
+    width: 100%;
+    clear: both;
+    text-decoration: solid;
+   
+ }
+ .left-section{
+    margin: 20px;
+   float: left;
+   clear: both;
+ 
+ }
+ 
+ .right-section{
+    margin: 20px;
+    float: right;
+    
+ 
+ }
+ .main-content{
+  
+    clear: both;
+    
+ }
+ 
+ .main-content h3{
+   
+    font-size:large ;
+    margin-left: 10%;
+  
+   
+ }
+ .left-content img{
+    border-radius: 10%;
+    
+    width: 20%;
+    height: 20%;
+    margin-left: 10%;
+    float: left;
+ 
+ }
+ .right-content{
+    
+    margin-right: 30%; 
+    float: right;
+    margin-bottom: 10px;
+ 
+ }
+ footer{
+    clear: both;
+    margin-top: 50%;
+    margin-left: 40%;
+ }
+ .fa {
+    
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+ .fa:hover{
+    opacity: 0.4;
+ }
+ .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+ 
+ .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+ .fa-instagram {
+    background: #c91010;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  footer p{
+    margin-top: 5%;
+    margin-left: 40px;
+  }
+ 
